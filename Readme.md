@@ -8,6 +8,8 @@ A campground can only be deleted and updated by its creator and no one else.
 
 I have used MongoDB to store all  the information and to access them.
 
+I have used HTML,CSS and Javascript to implement the frontend of the application.
 
+ I have used Express JS and Node JS to implement the backend of the application.
 
 To start the app type "npm start" in the terminal
