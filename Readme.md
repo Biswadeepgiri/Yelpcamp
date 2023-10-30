@@ -8,6 +8,6 @@ A campground can only be deleted and updated by its creator and no one else.
 
 I have used MongoDB to store all  the information and to access them.
 
-I have 
+
 
 To start the app type "npm start" in the terminal
